@@ -1,0 +1,8 @@
+{
+    "router":{
+        "user": "admin",
+	"password": "xxxxxxxxxxxxx",
+	"login_uri": "http://192.168.0.1",
+	"wireless_uri": "http://192.168.0.1/wlanRadio.asp"
+    }
+}
